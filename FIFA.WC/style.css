@@ -1,0 +1,15 @@
+*{
+    box-sizing: content-box;
+}
+.container {
+    font-size: 15px;
+}
+img {
+    height: 30px;
+}
+body {
+    padding-top: 30px;
+}
+.w-25 {
+    width: 50%!important;
+}
